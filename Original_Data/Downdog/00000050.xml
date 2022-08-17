@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Downdog</folder>
+	<filename>00000050.jpg</filename>
+	<path>C:\Users\Keegan Fernandes\Desktop\Data projects\Yoga Poses\YogaPoses\Downdog\00000050.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>213</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Downdog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>43</ymin>
+			<xmax>272</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>
